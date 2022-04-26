@@ -9,4 +9,4 @@ Script that uses Inspirobot to generate inspirational quotes and print them usin
 3. Press 'q'.
 4. Become *inspired*!
 
-### Has only been tested with Windows. Won't work with Linux because the printer library has been created for windows only.
+### Has only been tested with Windows. Won't work with Linux because the printer library has been created for Windows only.
